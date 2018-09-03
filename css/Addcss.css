@@ -1,0 +1,39 @@
+.topBar{
+
+
+    background-color: teal;
+    height: 50px;
+}
+#coltext{
+
+color: white;
+
+}
+#movs9{
+ padding-left: 150px;
+  padding-top: 10px
+}
+#movs3{
+
+    padding-top: 10px;
+}
+
+.imgs{
+
+    float: right;
+    height:80px;
+}
+
+li{
+    display: inline;
+    margin: 2px;
+    padding-left: 100px;
+
+}
+.set{
+  
+    padding-top:  20px;
+    align-items: center;
+
+}
+
